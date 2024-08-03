@@ -1,1 +1,0 @@
-[{"width":1105,"height":5169,"sha":"862e09010758dd0699808ac3f7dbcd23ed3b14cc"},{"width":500,"height":500,"sha":"bf5be91069a0ccef8ad633f0a7563ec3a25a9b26"},{"width":1766,"height":461,"sha":"9cc7b68ed8db05fd90810726c68320f74798a188"}]
